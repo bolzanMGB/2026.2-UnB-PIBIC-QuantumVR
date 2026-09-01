@@ -1,0 +1,26 @@
+site_name: UnB - QuantumVR
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: red
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.tabs.sticky
+
+repo_url: https://github.com/bolzanMGB/2026.2-UnB-PIBIC-QuantumVR
+
+extra_css:
+  - assets/stylesheets/global.css
+  
+markdown_extensions:
+  - admonition
+  - tables
+
+nav:
+  - Home: index.md
+  - Artigos: 
+    - Artigo 01: 01_artigos/01_artigo.md
