@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"],"fields":{"title":{"boost":1000.0},"text":{"boost":1.0},"tags":{"boost":1000000.0}}},"docs":[{"location":"","title":"T\u00edtulo","text":""},{"location":"#1-subtitulo","title":"1. Subt\u00edtulo","text":"<p>texto</p>"},{"location":"#2-subtitulo","title":"2. Subt\u00edtulo","text":"<p>texto</p>"}]}
