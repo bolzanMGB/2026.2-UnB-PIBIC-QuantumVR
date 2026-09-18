@@ -22,5 +22,9 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Artigos: 
-    - Artigo 01: 01_artigos/01_artigo.md
+  - Fundamentos:
+    - Evolução Histórica dos Modelos Atômicos: 01-fundamentos/1.1-historico-modelos.md 
+    - Modelo Atômico Atual: 01-fundamentos/1.2-modelo-atual.md 
+  - Revisão de Literatura: 
+    - Artigos : 02-analise-artigos/2.1-artigos.md
+    - Immersive Quantum : 02-analise-artigos/2.2-immersive-quantum.md
